@@ -84,16 +84,14 @@ Feel free to fork and contribute with:
 [LinkedIn Profile](https://www.linkedin.com/in/priya551/)  
 Aspiring iOS Developer | Passionate about intuitive mobile experiences.
 
----reen shots reen shots 
+
 
 ## 🌟 Star this Repo if you like the project!
 
----
 
-## 📸 Demo Screenshot
-![FeedFlow Demo](path-to-your-screenshot.png)
 
----
+**HAPPY CODING**
+
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
