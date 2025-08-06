@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "username": "Priya",
+        "content": "First post on FeedFlow!",
+        "imageURL": null,
+        "localImageName": "feedFlowImage",
+        "profileImageName": "priyaAvatar",
+        "type": "image"
+    },
+    {
+        "id": "2",
+        "username": "Amma Home Foods",
+        "content": "Check out our menu!",
+        "imageURL": null,
+        "localImageName": "ammaMenuImage",
+        "profileImageName": "ammaAvatar",
+        "type": "image"
+    },
+    {
+        "id": "3",
+        "username": "FeedFlow",
+        "content": "Empowering small businesses with technology!",
+        "imageURL": null,
+        "localImageName": null,
+        "profileImageName": "feedFlowLogo",
+        "type": "text"
+    }
+]
